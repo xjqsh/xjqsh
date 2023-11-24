@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -53,5 +55,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 24/11/2023 00:34:04 UTC
+ Last Updated on 24/11/2023 00:50:18 UTC
 <!--END_SECTION:waka-->
