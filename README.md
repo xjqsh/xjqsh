@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C652%20hrs%2054%20mins-blue)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -58,5 +60,5 @@ Windows                  14 hrs 54 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 ```
 
 
- Last Updated on 04/11/2025 02:01:36 UTC
+ Last Updated on 05/11/2025 02:02:59 UTC
 <!--END_SECTION:waka-->
