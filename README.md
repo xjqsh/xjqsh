@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C614%20hrs%2036%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-45%20hrs%2019%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -85,5 +89,5 @@ Codex-Vscode             0 lines             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ```
 
 
- Last Updated on 14/09/2026 01:02:36 UTC
+ Last Updated on 14/09/2026 04:36:08 UTC
 <!--END_SECTION:waka-->
